@@ -15,7 +15,8 @@
 ### I imported the data from Kaggle, checked for null values. I created the different KPI’s, which include sales kpi, profit kpi and quantity kpi to show the amount of progress made towards the different measurable goals. The YTD vs PYTD of sub-categories shows the phone categories are performing better than the labels. 
 ![image](https://github.com/sirskin01/try01/assets/144762826/2eea9331-85a1-4261-b54e-4ed490ed2485)
 
-### This is another dashboard for the weekly performance of Sample Super Store 
+## Weekly Dashboard: 
+### This dashboard was created to track the weeekly performance of the store in terms of sales and profits
 ![image](https://github.com/sirskin01/try01/assets/144762826/c3339b6c-6060-4c7b-a05c-758fc93a48c8)
 
 
