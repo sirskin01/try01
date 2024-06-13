@@ -19,4 +19,4 @@
 ### This dashboard was created to track the weeekly performance of the store in terms of sales and profits
 ![image](https://github.com/sirskin01/try01/assets/144762826/c3339b6c-6060-4c7b-a05c-758fc93a48c8)
 
-
+# [Project 3: Titanic Machine ]
