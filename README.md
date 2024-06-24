@@ -3,13 +3,13 @@
 # [Project 1: SQL IMDB movie Analysis]
 ### Project Goal: This project is to analyze imdb movie database using sql queries. First the data was collected from kaggle, then loaded into the data warehouse for further analytics. The following questions were used to analyse this dataset
 
-# The first question is:
+### The first question is:
 ![sql_1](https://github.com/sirskin01/try01/assets/144762826/99966dd4-787e-4456-b8f4-63a7a37d26ac)
 
-# The second question is:
+### The second question is:
 ![sql_2a](https://github.com/sirskin01/try01/assets/144762826/42025e2f-d191-474b-8f7c-46450678c9e4)
 
-# The third question is:
+### The third question is:
 ![sql_2b](https://github.com/sirskin01/try01/assets/144762826/4bcb7f59-a97a-4036-bb88-a98cbf24a59c)
 
 ![sql_2c](https://github.com/sirskin01/try01/assets/144762826/340fd7b1-2123-480c-a074-bf8df09c3c79)
