@@ -3,26 +3,40 @@
 # [Project 1: SQL IMDB movie Analysis]
 ### Project Goal: This project is to analyze imdb movie database using sql queries. First the data was collected from kaggle, then loaded into the data warehouse for further analytics. The following questions were used to analyse this dataset
 
-### The first question is:
+### Question 1:
 ![sql_1](https://github.com/sirskin01/try01/assets/144762826/99966dd4-787e-4456-b8f4-63a7a37d26ac)
 
-### The second question is:
+### Question 2a:
 ![sql_2a](https://github.com/sirskin01/try01/assets/144762826/42025e2f-d191-474b-8f7c-46450678c9e4)
 
-### The third question is:
+
+### Question 2b:
 ![sql_2b](https://github.com/sirskin01/try01/assets/144762826/4bcb7f59-a97a-4036-bb88-a98cbf24a59c)
 
+
+### Question 2c: 
 ![sql_2c](https://github.com/sirskin01/try01/assets/144762826/340fd7b1-2123-480c-a074-bf8df09c3c79)
 
+
+### Question 3a:
 ![sql_3a](https://github.com/sirskin01/try01/assets/144762826/1bbf26e2-3c40-49b4-a12f-a2d5cfcc2059)
 
+
+### Question 3b:
 ![sql_3b](https://github.com/sirskin01/try01/assets/144762826/7705561f-ba99-4365-b4f7-ce46b10fdb7a)
 
+
+### Question 4:
 ![sql_4](https://github.com/sirskin01/try01/assets/144762826/ddf6dad6-791d-4f26-b718-38c9642d44ab)
 
+
+### Question 5:
 ![sql_5](https://github.com/sirskin01/try01/assets/144762826/0164552a-df67-4bd0-992f-678879e799d2)
 
+
+### Question 6:
 ![sql_6](https://github.com/sirskin01/try01/assets/144762826/8ee98452-b820-4e3f-a4ce-a145b8b3e81f)
+
 
 
 # [Project 2: Titanic Machine Learning Prediction with Decision Tree]
