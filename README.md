@@ -42,6 +42,7 @@
 # [Project 2: Titanic Machine Learning Prediction with Decision Tree]
 
 
+[Uploading Predicting Survival Rate(Titanic).ipynb…]()
 
 
 
